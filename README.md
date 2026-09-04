@@ -1,77 +1,25 @@
 # Hi, I'm Saaya 👋
 
-### BCA Student | Developer | Mangalore, India
+**BCA Student | Developer | Mangalore, India**
 
-I'm a BCA student interested in software development and modern web technologies.
+I'm a developer who enjoys **learning by building**.
 
-I enjoy building practical projects, learning new technologies, and improving my problem-solving and development skills. Currently, I'm focusing on Python, web development, backend development, and exploring modern technologies.
+I like taking an idea, understanding the problem, and turning it into a working application. My current focus is **Python, Django, React, backend development, and databases**, while continuously exploring new technologies.
 
----
+### What I Bring
 
-## About Me
+* 🧩 **Problem Solving** — I enjoy understanding problems and finding practical solutions.
+* 🚀 **Learning Mindset** — I actively learn new technologies and improve through projects.
+* 🔧 **Adaptability** — Comfortable taking on unfamiliar tasks and learning what is needed to complete them.
+* 💻 **Hands-on Development** — I prefer building real projects rather than only learning theory.
 
--  BCA Student
--  Interested in Software Development
--  Currently learning Python, backend development, and modern web technologies
--  I enjoy building projects to learn and solve practical problems
--  Open to internships, collaborations, and learning opportunities
+### Currently
 
----
+Building projects, strengthening my development fundamentals, and exploring **backend, AI, and cloud technologies**.
 
-## Skills
+> **I may not know everything yet, but I'm always willing to learn what the problem requires.**
 
-### Languages
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
+### Let's Connect
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+I'm open to **internships, collaborations, and opportunities where I can learn, contribute, and grow.**
 
-### Backend
-- Python
-- Django
-- Node.js
-- Express.js
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## What I Can Do
-
-- Build responsive websites
-- Develop frontend applications using React
-- Create backend APIs
-- Work with databases
-- Build full-stack web applications
-- Use Git and GitHub for version control
-- Learn and implement new technologies through projects
-
-
-## Currently Learning
-
-- Python
-- Django
-- FastAPI
-- React
-- Backend Development
-- Data Structures & Algorithms
-- Cloud & AWS Technologies
-- AI and Generative AI
-
----
-## Take a look on my projects
-## Let's Connect
